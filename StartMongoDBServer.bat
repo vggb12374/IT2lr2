@@ -1,0 +1,1 @@
+"C:\OSPanel\modules\database\MongoDB-3.6\mongod.exe" --dbpath "C:\OSPanel\domains\IT2lr2\MongoDB"

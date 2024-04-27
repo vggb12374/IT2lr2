@@ -1,0 +1,1 @@
+"C:\OSPanel\modules\database\MongoDB-3.6\mongo.exe"
